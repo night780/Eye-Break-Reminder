@@ -18,3 +18,5 @@ You can replace 3600 with the number of seconds you want to delay before sending
 
 # Acknowledgments
 This program was inspired by the need to take frequent eye breaks while working on the computer for long hours. The pop-up window notification is created using VBScript, which is a simple and effective way to display notifications on Windows.
+
+![image](https://user-images.githubusercontent.com/96319709/225719617-b170e2c4-5440-4868-9ead-3d523c6b0eed.png)
